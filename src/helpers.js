@@ -33,6 +33,7 @@ module.exports.getConfig = () => {
     type: 'functional',
     dir: 'src/components',
     extension: 'js',
+    css: 'module.css',
   };
 
   const globalOverrides = requireOptional(
