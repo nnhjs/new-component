@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/joshwcomeau/new-component/blob/master/docs/logo@2x.png?raw=true" width="285" height="285" alt="new-component logo">
   <br>
-  <a href="https://www.npmjs.org/package/new-component"><img src="https://img.shields.io/npm/v/new-component.svg?style=flat" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/new-component-js"><img src="https://img.shields.io/npm/v/new-component.svg?style=flat" alt="npm"></a>
 </p>
 
 # `new-component`
@@ -88,10 +88,7 @@ The resulting values are merged, with command-line values overwriting local valu
 Control the type of component created:
 
 - `functional` for a stateless functional component (default).
-- `class` for a traditional Component class,
-- `pure-class` for a PureComponent class,
 
-Legacy `createClass` components are not supported.
 
 **Usage:**
 

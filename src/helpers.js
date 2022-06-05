@@ -89,7 +89,7 @@ const colors = {
 };
 
 const logComponentType = (selected) =>
-  ['class', 'pure-class', 'functional']
+  ['functional']
     .sort((a, b) => (a === selected ? -1 : 1))
     .map((option) =>
       option === selected
