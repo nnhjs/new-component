@@ -1,7 +1,7 @@
 {
-  "name": "new-component-js",
-  "version": "1.0.1",
-  "description": "CLI for creating new React components",
+  "name": "new-react-fn-component",
+  "version": "1.0.2",
+  "description": "CLI for creating new React functional components",
   "homepage": "https://github.com/nnhjs/new-component",
   "repository": {
     "type": "git",
